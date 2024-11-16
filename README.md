@@ -1,3 +1,4 @@
+![Screenshot from 2023-11-16 13-08-24](https://raw.githubusercontent.com/Luca-Sec33/Trx.crack/refs/heads/main/Screenshot.png)
 # Trx.crack
 
 This tool can crack hashes then print it to you. It can check for multiple hashes at the same time. For any issues you can write in issues section. It can scan for 100k words in 5 seconds.
