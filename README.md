@@ -30,7 +30,7 @@ This tool can crack hashes then print it to you. It can check for multiple hashe
 ## Install and start The tool
 
 
-`git clone `
+`git clone https://github.com/Luca-Sec33/Trx.crack.git`
 
 `cd Trx.crack`
 
